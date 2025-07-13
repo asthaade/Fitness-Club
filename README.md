@@ -1,1 +1,1 @@
-Project - [FitnessClub](https://asthaade.github.io/Fitness-Club/)
+Live Project - [FitnessClub](https://asthaade.github.io/Fitness-Club/)
